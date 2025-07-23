@@ -23,7 +23,7 @@ This project is a **Bluetooth-controlled thrust-vectoring gimbal system** design
 
 | File | Description |
 |------|-------------|
-| `Code_for_Rocket.ino` | Final Arduino sketch for gimbal + ESC control |
+| `rocket_gimbal_system.ino` | Final Arduino sketch for gimbal + ESC control |
 | `Final Schematic.drawio` / `.png` | Complete wiring schematic (editable + visual) |
 | `*.stl` files | All final 3D printed parts (arms, mounts, baseplate) |
 | Media | Videos and pictures demonstrating functionality |
