@@ -56,9 +56,9 @@ This project is a **Bluetooth-controlled thrust-vectoring gimbal system** design
 
 ## 📸 Media
 
-- 🔌 **Circuit & Bluetooth Demo** — [Link or uploaded video]
-- 🎥 **Thrust + Gimbal Functionality** — [Link or uploaded video]
-- 📷 Final build photo at desk included
+- 🔌 **Circuit & Bluetooth Demo** — (Watch on Google Drive) https://drive.google.com/file/d/1IoF2ARaRBi8Ify6LhGKEyqzEVtrOYgCz/view?usp=sharing
+- 🎥 **Thrust + Gimbal Functionality** — (Watch on Google Drive) https://drive.google.com/file/d/1IoF2ARaRBi8Ify6LhGKEyqzEVtrOYgCz/view?usp=sharing
+- 📷 Final build photo (Setup on Desk) https://drive.google.com/file/d/1Il-xUT7Q_sEY_sdj5F8KUF_tGNteUiek/view?usp=sharing
 
 ---
 
