@@ -2,7 +2,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/matthew56391/rocket-gimbal-system)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-![Rocket Build](https://drive.google.com/file/d/1Il-xUT7Q_sEY_sdj5F8KUF_tGNteUiek/view?usp=sharing)
+![Rocket Build](deskphoto.jpg)
 
 This project is a **Bluetooth-controlled thrust-vectoring gimbal system** designed for a model rocket. It uses two servos for pitch and yaw control, an ESC-controlled brushless motor for thrust, and a fully custom 3D-printed baseplate to mount and protect the internal components.
 
