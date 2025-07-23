@@ -1,4 +1,8 @@
 # 🚀 Rocket Gimbal System
+![GitHub repo size](https://img.shields.io/github/repo-size/matthew56391/rocket-gimbal-system)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+![Rocket Build](https://drive.google.com/file/d/1Il-xUT7Q_sEY_sdj5F8KUF_tGNteUiek/view?usp=sharing)
 
 This project is a **Bluetooth-controlled thrust-vectoring gimbal system** designed for a model rocket. It uses two servos for pitch and yaw control, an ESC-controlled brushless motor for thrust, and a fully custom 3D-printed baseplate to mount and protect the internal components.
 
@@ -52,13 +56,22 @@ This project is a **Bluetooth-controlled thrust-vectoring gimbal system** design
 - STL dimensions optimized for M3 hardware and RS2205 prop clearance
 - Cone diameter: 200mm | Height: 82mm | Rocket body: 84mm diameter
 
+- ## Getting Started
+
+1. Open `Code_for_Rocket.ino` in the Arduino IDE.
+2. Make sure you have these libraries installed:
+   - Servo
+   - SoftwareSerial
+3. Upload the sketch to an Arduino Uno.
+4. Connect the circuit according to the wiring schematic.
+5. Send Bluetooth commands from your joystick app.
+
 ---
 
 ## 📸 Media
 
 - 🔌 **Circuit & Bluetooth Demo** — (Watch on Google Drive) https://drive.google.com/file/d/1IoF2ARaRBi8Ify6LhGKEyqzEVtrOYgCz/view?usp=sharing
 - 🎥 **Thrust + Gimbal Functionality** — (Watch on Google Drive) https://drive.google.com/file/d/1IoF2ARaRBi8Ify6LhGKEyqzEVtrOYgCz/view?usp=sharing
-- 📷 Final build photo (Setup on Desk) https://drive.google.com/file/d/1Il-xUT7Q_sEY_sdj5F8KUF_tGNteUiek/view?usp=sharing
 
 ---
 
