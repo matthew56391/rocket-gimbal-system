@@ -1,0 +1,76 @@
+# 🚀 Rocket Gimbal System
+
+This project is a **Bluetooth-controlled thrust-vectoring gimbal system** designed for a model rocket. It uses two servos for pitch and yaw control, an ESC-controlled brushless motor for thrust, and a fully custom 3D-printed baseplate to mount and protect the internal components.
+
+> ✅ Designed and built from scratch for hands-on control and embedded systems practice.
+
+---
+
+## 🎯 Features
+- 🎮 Real-time control via Bluetooth joystick (HC-05)
+- 🧠 Smoothing + dead zone logic for stable servo movement
+- 🛞 Thrust control via ESC with remapped microsecond ranges
+- 🚨 Manual override switch for safety
+- 🧩 Modular 3D-printed design for each mechanical part
+
+---
+
+## 📁 Included Files
+
+| File | Description |
+|------|-------------|
+| `Code_for_Rocket.ino` | Final Arduino sketch for gimbal + ESC control |
+| `Final Schematic.drawio` / `.png` | Complete wiring schematic (editable + visual) |
+| `*.stl` files | All final 3D printed parts (arms, mounts, baseplate) |
+| Media | Videos and pictures demonstrating functionality |
+
+---
+
+## 🔧 Hardware Used
+
+- **Arduino Uno**
+- **MG996R Servos** (x2)
+- **HC-05 Bluetooth module**
+- **RS2205 2300KV Brushless Motor**
+- **30A ESC with UBEC**
+- **OVONIC 3S 11.1V 2200mAh LiPo**
+- **Custom 3D-printed PLA parts**
+
+---
+
+## 🧪 Demo & Testing
+
+- ✅ Gimbal responds to joystick X/Y input with remapped motion
+- ✅ ESC thrust control adjusts motor speed based on T input
+- ✅ Manual reset switch resets gimbal and throttle to idle
+
+---
+
+## 🛠️ Build Notes
+
+- All parts are designed to fit inside a 3D-printed cone-style baseplate
+- STL dimensions optimized for M3 hardware and RS2205 prop clearance
+- Cone diameter: 200mm | Height: 82mm | Rocket body: 84mm diameter
+
+---
+
+## 📸 Media
+
+- 🔌 **Circuit & Bluetooth Demo** — [Link or uploaded video]
+- 🎥 **Thrust + Gimbal Functionality** — [Link or uploaded video]
+- 📷 Final build photo at desk included
+
+---
+
+## 📜 License
+
+MIT License — feel free to remix, improve, or build your own rocket gimbal.
+
+---
+
+## ✍️ Author
+
+Matthew Cuebas 
+Electrical Engineering @ UTSA  
+Interested in embedded systems, aerospace, and defense R&D.
+
